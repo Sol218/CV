@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-Este proecto es un ejercicio para aprender a llevar proyectos a la Web.
+Este proyecto es un ejercicio para aprender a llevar proyectos a la Web.
 
 ## Objetivos de aprendizaje
 -Aprender la estructura HTML basica.
